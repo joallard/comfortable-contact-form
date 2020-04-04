@@ -76,3 +76,7 @@ You can include as much or as few CSS as you wish:
 * None: No CSS.
 * Minimal: The CSS it takes for it not to look broken, nothing more. Equivalent of default HTML styles.
 * Themed: The whole enchilada, ready to go. Includes niceties like border-radius and some font-weights. Define `--accent-color` and you're good to go!
+
+## Todo
+* Dark background
+* Accessibility tags
