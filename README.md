@@ -1,6 +1,8 @@
 # The Comfortable Contact Form
 (until I find a better name!)
 
+![](https://github.com/joallard/comfortable-contact-form/raw/master/image.png)
+
 For asynchronous communication between your visitors and you.
 
 * Using a contact form as a visitor is full of friction and never very fun.
