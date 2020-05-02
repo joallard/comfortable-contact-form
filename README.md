@@ -29,7 +29,7 @@ Custom elements approach:
 
 And then:
 ```js
-contactForm.open()
+document.querySelector("contact-form-dialog").open()
 ```
 
 And that's it.
